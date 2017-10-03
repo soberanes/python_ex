@@ -12,3 +12,7 @@ my_name = "Paul Soberanes"
 
 # float
 book_price = 15.80
+
+print two
+print my_name
+print book_price
